@@ -1,0 +1,6 @@
+{
+  "name": "GeoAmérica Innova - Relieve y Clima de América",
+  "description": "Plataforma educativa interactiva sobre el relieve y el clima de América para estudiantes de 8vo Grado 'A' del Instituto Rosa Cerda Amador (II Semestre 2026), con mapas interactivos, cuestionarios dinámicos y recursos docentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
